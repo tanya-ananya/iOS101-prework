@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='[https://imgur.com/a/nW4059S](https://imgur.com/a/vznUVyu)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[[https://imgur.com/a/nW4059S](https://imgur.com/a/vznUVyu)](https://i.imgur.com/gcj1cip.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Link in case the above doesn't work: https://imgur.com/a/vznUVyu
 
