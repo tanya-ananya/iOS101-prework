@@ -1,17 +1,17 @@
 # Prework - *iOS 101 Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **Taaruni Ananya**
 
-**Name of your app** is an app that... [TODO] 
+**iOS 101 Prework** is an app that informs the user my name, university, and aspiring job. It can change the background color when the change color button is clicked.
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
