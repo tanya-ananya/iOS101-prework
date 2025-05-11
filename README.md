@@ -19,6 +19,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+Link in case the above doesn't work: https://imgur.com/a/vznUVyu
+
 ## App Brainstorming (Step 4)
 
 ## Notes
