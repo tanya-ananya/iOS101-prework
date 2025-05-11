@@ -32,8 +32,8 @@ App THREE: Netflix
 - The app uses the same UI throughout all devices, maintaining consistency and familiar UI for users
 - The 'New and Hot' feature is fun to scroll through for recommendations
 
-App Idea:
-
+**App Idea:**
+One app I want to redesign would be Amazon's storefront. Right now, it can seem intimdating and overwhelming for new users--expecially the settings page where it takes a long time to find something even with the search feature. To redesign it, I would offer options for the UI between compact and more spaced apart options for the users to click. Another feature I would change would be the amount of content shown in the settings page--I would try to find ways to condense the information and available options to go through.
 
 ## Notes
 
