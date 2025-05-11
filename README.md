@@ -20,6 +20,17 @@ The following **required** functionality is completed:
 Link in case the above doesn't work: https://imgur.com/a/vznUVyu
 
 ## App Brainstorming (Step 4)
+App ONE: iMessage
+- Can unsend messages
+- Can edit messages
+- Shows message timestamps
+App TWO: Google Maps
+- Easy to use UI
+- Has many different versions and gives a lot of control to the user in terms of changing the map's looks
+App THREE: Netflix
+- The app uses the same UI throughout all devices, maintaining consistency and familiar UI for users
+- The 'New and Hot' feature is fun to scroll through for recommendations
+
 
 ## Notes
 
