@@ -17,9 +17,6 @@ The following **required** functionality is completed:
 
 <img src='[https://imgur.com/a/nW4059S](https://imgur.com/a/vznUVyu)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Alternatively:
-<a href="[https://imgur.com/a/nW4059S](https://imgur.com/a/vznUVyu)">Link</a>
-
 Link in case the above doesn't work: https://imgur.com/a/vznUVyu
 
 ## App Brainstorming (Step 4)
