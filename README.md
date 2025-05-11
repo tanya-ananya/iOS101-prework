@@ -15,9 +15,10 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<img src='[https://imgur.com/a/nW4059S](https://imgur.com/a/vznUVyu)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Alternatively:
+<a href="[https://imgur.com/a/nW4059S](https://imgur.com/a/vznUVyu)">Link</a>
 
 Link in case the above doesn't work: https://imgur.com/a/vznUVyu
 
