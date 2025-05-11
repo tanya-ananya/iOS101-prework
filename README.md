@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *iOS 101 Prework*
 
 Submitted by: **Your Name Here**
 
