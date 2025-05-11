@@ -37,7 +37,7 @@ One app I want to redesign would be Amazon's storefront. Right now, it can seem 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The instructions were pretty hard to navigate, it even seemed to be working with older models and the same features shown in the instructions were in different spots. For example, the instruction in step 3 said the "Storyboard file" when in reality, the exact buttons to get to this file were to click on the panel and open "assistant". It was hard to navigate as a new user to Xcode.
 
 ## License
 
